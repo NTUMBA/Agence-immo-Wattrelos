@@ -1,0 +1,2 @@
+
+$("#logo").hide().show("slow");
